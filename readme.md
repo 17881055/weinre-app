@@ -2,9 +2,9 @@
 
 > My superb app
 
-<img src="https://github.com/17881055/weinre-app/blob/master/image/1.jpg?raw=true" width="690" height="233">
+<img src="https://github.com/17881055/weinre-app/blob/master/image/1.jpg?raw=true" width="800" height="500">
 
-<img src="https://github.com/17881055/weinre-app/blob/master/image/2.jpg?raw=true" width="690" height="233">
+<img src="https://github.com/17881055/weinre-app/blob/master/image/2.jpg?raw=true" width="800" height="500">
 
 ## Dev
 
